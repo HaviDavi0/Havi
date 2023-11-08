@@ -14,7 +14,7 @@ How to reach me: 0uter4eaven@proton.me
 
 Here is a link with a brief description of where I am along my journey:
 
-https://api.roadmap.sh/v1-badge/tall/64d23df1958c39fd1f8175e5?variant=dark
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64d23df1958c39fd1f8175e5?variant=dark)](https://roadmap.sh)
 
 Current Skills:
 
