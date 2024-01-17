@@ -1,10 +1,11 @@
 # Havi
 
-Hey, I'm HaviDavi or Havi for short, Welcome to my GitHub profile!
+Hey, my name is HaviDavi or Havi for short.
 
-I’m currently working on an assortment of technical skills in the pursuit of learning and employment. I would like nothing more than to be at the cross-roads of fieldcraft and skillcraft in everything I do.
 
-I am actively developing different abilities in computer programming, program and network security and much more.
+I’m currently working on an assortment of technical skills in the pursuit of learning and employment in Information Technology. I would like nothing more than to be at the cross-roads of fieldcraft and skillcraft in everything I do.
+
+I am actively working on different skills in Programming, Networking, and Automation and Scripting.
 
 How to reach me: 0uter4eaven@proton.me
 
@@ -18,21 +19,20 @@ Here is a link with a brief description of where I am along my journey:
 
 Current Skills:
 
-  - Functional knowledge of Python and Object-oriented programming
-  - Intermediate knowledge and understanding of Windows and Linux OS
+  - Python and Object-oriented programming
+  - Operating System Fundamentals in `Windows` and `Linux`
 
 Working towards a skill set in:
 
+  - Scripting
   - Ansible
   - Docker
   - Networking, Security tools and Protocols
 
 Working towards a certificate/training in the following:
 
-  ⬜ CompTIA A+
-  ⬜ CompTIA Security+
-  ⬜ CompTIA CySA+
-  ⬜ Computer Programming Degree
-  ⬜ CISSP
+  ⬜ CompTIA Network+
+  ⬜ HTB Certified Penetration Testing Specialist (HTB CPTS)
+  ⬜ Computer Programming Bachelor's
 
 ---
