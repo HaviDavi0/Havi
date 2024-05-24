@@ -1,11 +1,10 @@
 # Havi
 
-Hey, my name is HaviDavi or Havi for short.
+HaviDavi
 
+Aspiring network specialist, currently pursuing a CS degree. Strong intrest in networking, actively participating in CTFs, scripting in Bash and coding in Python. Hobbies include building skills around operating and troubleshooting Linux and Window OS. 
 
-I’m currently working on an assortment of technical skills in the pursuit of learning and employment in Information Technology. I would like nothing more than to be at the cross-roads of fieldcraft and skillcraft in everything I do.
-
-I am actively working on different skills in Programming, Networking, and Automation and Scripting.
+Only accepting words of incuragment, positive comments and pointers at this time.
 
 How to reach me: 0uter4eaven@proton.me
 
@@ -15,7 +14,7 @@ How to reach me: 0uter4eaven@proton.me
 
 Here is a link with a brief description of where I am along my journey:
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64d23df1958c39fd1f8175e5?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/664fd911d6b907c7f7897b04?variant=dark)](https://roadmap.sh)
 
 Current Skills:
 
@@ -25,14 +24,17 @@ Current Skills:
 Working towards a skill set in:
 
   - Scripting
-  - Ansible
-  - Docker
   - Networking, Security tools and Protocols
 
-Working towards a certificate/training in the following:
+Working towards the following:
 
-  ⬜ CompTIA Network+
+  ⬜ CompTIA Security +
   ⬜ HTB Certified Penetration Testing Specialist (HTB CPTS)
-  ⬜ Computer Programming Bachelor's
+  ⬜ B.S. CS
+
+Finished the following:
+
+  ⬜ CompTIA A+
+  ⬜ CompTIA Network+
 
 ---
