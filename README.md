@@ -2,9 +2,9 @@
 
 HaviDavi
 
-Aspiring network specialist, currently pursuing a CS degree. Strong intrest in networking, actively participating in CTFs, scripting in Bash and coding in Python. Hobbies include building skills around operating and troubleshooting Linux and Window OS. 
+Aspiring network specialist, currently pursuing a CS degree. Strong intrest in networking, actively participating in CTFs, scripting in Bash and coding in Python. Hobbies include mostly learning things the hard way.
 
-Only accepting words of incuragment, positive comments and pointers at this time.
+Only accepting words of encouragement currently.
 
 How to reach me: 0uter4eaven@proton.me
 
@@ -20,16 +20,13 @@ Current Skills:
 
   - Python and Object-oriented programming
   - Operating System Fundamentals in `Windows` and `Linux`
-
-Working towards a skill set in:
-
-  - Scripting
-  - Networking, Security tools and Protocols
+  - Basic Scripting
+  - Basoc Networking, Security tools and Protocols
 
 Working towards the following:
 
   ⬜ CompTIA Security +
-  ⬜ HTB Certified Penetration Testing Specialist (HTB CPTS)
+  ⬜ HTB CPTS
   ⬜ B.S. CS
 
 Finished the following:
